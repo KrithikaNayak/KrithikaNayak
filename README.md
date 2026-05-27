@@ -1,4 +1,4 @@
-Hi, I’m Krithika A 👋
+# Hi, I’m Krithika A 👋
 **Data Analyst** | **Turning data into actionable insights** |**Power-BI** |**Excel** |**SQL** |**Python** 
 
 
